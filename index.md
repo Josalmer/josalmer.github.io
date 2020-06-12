@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Welcome
 
-You can use the [editor on GitHub](https://github.com/Josalmer/josalmer.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<br><br>
+Here you can find some projects that I have developed during my [computer engineering](https://etsiit.ugr.es/) studies at the [University of Granada](https://www.ugr.es/)  
+<br><br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Projects
 
-### Markdown
+<br>
+[The Crazy Wagon](https://github.com/Josalmer/Graphics-Systems-Final-Practice/blob/master/code/index.html) is the final work of the graphic systems subject (course 19-20)  
+<br>
+You can see my repositories on github [here](https://github.com/Josalmer)  
+<br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Contact
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Josalmer/josalmer.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<br>
+Feel free to visit my profile on [linkedin](https://www.linkedin.com/in/jose-saldaña-mercado-1525b5156)
